@@ -43,6 +43,7 @@ h2 {
   height: auto;
 }
 
+/* Caja flex */
 .box-flex {
   display: flex;
   width: 100%;
@@ -52,7 +53,7 @@ h2 {
 }
 
 .box-height {
-  height: 100px;
+  height: 160px;
 }
 
 .j-start {
@@ -98,6 +99,7 @@ h2 {
 .bg-3 {
   background-color: rgb(241, 197, 140);
 }
+
 .bg-4 {
   background-color: rgb(228, 152, 152);
 }
